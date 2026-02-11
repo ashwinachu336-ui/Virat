@@ -1,0 +1,7 @@
+  GNU nano 7.2                                             Addtion *
+class Subtration {
+  public static void main(String args[]){
+   int a =20,b = 10;
+  System.out.println("The result is "+(a-b));
+   }
+}
